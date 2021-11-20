@@ -4,7 +4,7 @@ pagination_prev: null
 title: Agenda
 ---
 
-## Fall 2021 (18 November 2021)
+This panel event was hosted on 18 November 2021.
 
 1. Getting a Job (00:00:00)
 2. Getting Started in Your Career (00:45:00)
