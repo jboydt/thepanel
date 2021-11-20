@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jboydt', // Usually your GitHub org/user name.
   projectName: 'thepanel', // Usually your repo name.
-  trailingSlash: true,
+  trailingSlash: false,
 
   presets: [
     [
