@@ -6,7 +6,7 @@ There are no scheduled Software Industry Panel events at this time.
 
 ## Past events
 
-**18 November 2021** -- [Fall 2021 Panel](/docs/fall-2021/panelists.md) (virtual)
+**18 November 2021** -- [Fall 2021 Panel](/docs/fall-2021/agenda) (virtual)
 
 ---
 
