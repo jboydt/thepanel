@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jboydt', // Usually your GitHub org/user name.
   projectName: 'thepanel', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
 
   presets: [
     [
@@ -78,7 +78,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Software Industry Panel. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} jboydt/thepanel. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
