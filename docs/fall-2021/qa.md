@@ -4,7 +4,7 @@ title: Q&A
 pagination_next: null
 ---
 
-#### Career building
+### Career building
 
 What do you look for in a mentor?
 
@@ -16,7 +16,7 @@ Do you often have to learn a completely new language/framework at a new job?
 
 What kind of experience with programming did you have, coming into your first job with a math degree?
 
-#### Job search
+### Job search
 
 Is there any job you wanted to apply for but at the end you thought that its probably not the best idea?
 
@@ -26,7 +26,7 @@ What websites what you look for a early first job? What keywords would type to l
 
 From your experiences in looking for jobs, have you found more front-end or back-end jobs in demand?
 
-#### Skills building
+### Skills building
 
 How many leetcode/hackerrank/etc. questions should I do in per day or per week to improve your skills?
 
@@ -38,7 +38,7 @@ Best mindset needed to hone your craft? What principles do you keep for this?
 
 When I hear "learn a new language", it sounds scary because I'm stumbling to learn one. How much easier does it become to swap like that?
 
-#### Recommendations for students
+### Recommendations for students
 
 How did you manage your time as a student and how has that changed as you transitioned into a professional?
 
@@ -48,7 +48,7 @@ What advice would you go back in time to give yourself regarding P&A2 had it bee
 
 Are local companies inclined to offer an internship to someone who IS local?
 
-#### Misc
+### Misc
 What are the FAANG companies?
 
 What do "front-end", "back-end", and "infrastructure" mean?
