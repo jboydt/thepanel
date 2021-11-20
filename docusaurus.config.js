@@ -6,15 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BC Software Industry Panel',
+  title: 'Software Industry Panel',
   tagline: 'Hello world something something something',
-  url: 'https://github.com/jboydt/bc',
-  baseUrl: '/',
+  url: 'https://jboydt.github.io',
+  baseUrl: '/thepanel/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'jboydt', // Usually your GitHub org/user name.
-  projectName: 'bc', // Usually your repo name.
+  projectName: 'thepanel', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
@@ -24,14 +25,16 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/jboydt/bc/edit/main/website/',
+          editUrl: 'https://github.com/jboydt/thepanel/tree/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/jboydt/bc/edit/main/website/blog/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/jboydt/thepanel/edit/main/website/blog/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
