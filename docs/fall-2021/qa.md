@@ -1,7 +1,6 @@
 ---
 sidebar_position: 3
 title: Q&A
-pagination_next: null
 ---
 
 ### Career building
