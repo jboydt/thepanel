@@ -3,6 +3,13 @@ sidebar_position: 3
 title: Q&A
 ---
 
+<div class="alert alert--info" role="alert">
+  <button aria-label="Close" class="clean-btn close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  Answers from our panelists coming soon!
+</div>
+
 ### Career building
 
 What do you look for in a mentor?
