@@ -7,8 +7,14 @@ title: Agenda
 This panel event was hosted on 18 November 2021.
 
 1. Getting a Job (00:00:00)
+- **Speakers**: Matt Hallmark, James Krepelka, Jeremy Thomas
+- **Moderator**: James Krepelka
 2. Getting Started in Your Career (00:45:00)
+- **Speakers**: Matt Hallmark, Erik Mellum, Travis Wulff
+- **Moderator**: James Krepelka
 3. Day in the Life (01:30:00)
+- **Speakers**: Erik Mellum, Jeremy Thomas, Travis Wulff
+- **Moderator**: James Krepelka
 
 ---
 
