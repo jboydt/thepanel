@@ -3,12 +3,29 @@ sidebar_position: 3
 title: Q&A
 ---
 
-<div class="alert alert--info" role="alert">
-  <button aria-label="Close" class="clean-btn close" type="button">
+<div className="alert alert--info" role="alert">
+  <button aria-label="Close" className="clean-btn close" type="button">
     <span aria-hidden="true">×</span>
   </button>
   Answers from our panelists coming soon!
 </div>
+
+export const Answer = ({children, author, authorLink}) => (
+  <p>
+    {children}
+    <br />
+    - <a href={authorLink}>{author}</a>
+  </p>
+);
+
+export const QuestionAnswer = ({children, question}) => (
+  <details>
+    <summary>
+      <strong>{question}</strong>
+    </summary>
+    {children}
+  </details>
+);
 
 ### Career building
 
@@ -39,15 +56,12 @@ How many leetcode/hackerrank/etc. questions should I do in per day or per week t
 
 Does it matter the number of side projects on your portfolio? If so, how many side projects should make?
 
-<details>
-  <summary>
-    <strong>What’s your strategy to stay up to date on the latest development in the industry?</strong>
-  </summary>
-  <p>
-    I collaborate with previous coworkers and see what they're up to. Lot's of times that's enough. Sometimes I'll read
-    blogs or listen to podcasts. - <a href="/docs/fall-2021/panelists#travis">TW</a>
-  </p>
-</details>
+<QuestionAnswer question="What’s your strategy to stay up to date on the latest development in the industry?">
+    <Answer author="Travis W." authorLink="/docs/fall-2021/panelists#travis">
+        I collaborate with previous coworkers and see what they're up to. Lot's of times that's enough. Sometimes I'll
+        read blogs or listen to podcasts.
+    </Answer>
+</QuestionAnswer>
 
 Best mindset needed to hone your craft? What principles do you keep for this?
 
