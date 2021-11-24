@@ -3,18 +3,20 @@ sidebar_position: 2
 title: Panelists
 ---
 
-**Matt Hallmark** (Speaker)  
-matthall1155@gmail.com  
-https://www.linkedin.com/in/matthew-hallmark/
+<span id="matt" class="speakerName">Matt Hallmark</span> (Speaker)
+
+* matthall1155@gmail.com
+* https://www.linkedin.com/in/matthew-hallmark/
 
 Was in a different line of work but a friend gave him a shot to write some code for something his friend was building. Learned the rest on the job. Switched to work at ClockShark in Chico as a mobile engineer building with C# and .Net. Now is an infrastructure / backend engineer for Omnivore.
 
 ---
 
-**Erik Mellum** (Speaker)  
-mellum.erik@gmail.com  
-erik.mellum@quartzy.com  
-https://www.linkedin.com/in/erik-m-89b97144/
+<span id="erik" class="speakerName">Erik Mellum</span> (Speaker)
+
+* mellum.erik@gmail.com
+* erik.mellum@quartzy.com
+* https://www.linkedin.com/in/erik-m-89b97144/
 
 Started at Butte College. Transferred to Chico State. Graduated December 2015 with a BS in CSCI.
 
@@ -23,15 +25,17 @@ Presently working as a lead software engineer at Quartzy, been there for four ye
 
 ---
 
-**Jeremy Thomas** (Speaker)  
-https://www.linkedin.com/in/jeremy-thomas-55b27a119/
+<span id="jeremy" class="speakerName">Jeremy Thomas</span> (Speaker)
+
+* https://www.linkedin.com/in/jeremy-thomas-55b27a119/
 
 Started at Butte College, transferred to Chico State, Nearly completed a Math degree. Ended up delaying graduation to pick up some programming classes. Graduated with a Math Degree but went to Amazon as an SDE. Now works at Palo Alto Networks.
 
 ---
 
-**Travis Wulff** (Speaker)  
-https://www.linkedin.com/in/travis-lee-wulff/
+<span id="travis" class="speakerName">Travis Wulff</span> (Speaker)
+
+* https://www.linkedin.com/in/travis-lee-wulff/
 
 Started at Butte College, transferred to Chico State. Graduated with Chemistry and Math degrees.
 
@@ -39,8 +43,9 @@ Learned Python at work, became a software engineer on the job. Now runs a team o
 
 ---
 
-**James Krepelka** (Moderator/Speaker)  
-JamesKrepelka@gmail.com  
-https://www.linkedin.com/in/krepelka/
+<span id="james" class="speakerName">James Krepelka</span> (Moderator / Speaker)
+
+* JamesKrepelka@gmail.com
+* https://www.linkedin.com/in/krepelka/
 
 Started learning to code in P&A 1 at Butte. Ended up transferring to Chico State. Went to Amazon with Jeremy, left Amazon after a year for Google. Left Google after a couple of years to move back to Chico and now works remotely for Palo Alto Networks.

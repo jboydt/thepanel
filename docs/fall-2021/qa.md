@@ -12,12 +12,7 @@ title: Q&A
 
 ### Career building
 
-<details>
-  <summary>
-    <strong>What do you look for in a mentor?</strong>
-  </summary>
-  <p>Coming soon...</p>
-</details>
+What do you look for in a mentor?
 
 After working in the industry for a while are there any other avenues of education (math, business, chemistry, psychology) that might have benefited you in either getting a job or making life in the industry easier? Or does it depend on the job?
 
@@ -33,7 +28,8 @@ Is there any job you wanted to apply for but at the end you thought that its pro
 
 Do most people in this industry move from job to job frequently?
 
-What websites what you look for a early first job? What keywords would type to look for time jobs? Do I type like "junior software dev jobs" or something like that?
+What websites what you look for a early first job? What keywords would type to look for time jobs? Do I type like
+"junior software dev jobs" or something like that?
 
 From your experiences in looking for jobs, have you found more front-end or back-end jobs in demand?
 
@@ -43,7 +39,15 @@ How many leetcode/hackerrank/etc. questions should I do in per day or per week t
 
 Does it matter the number of side projects on your portfolio? If so, how many side projects should make?
 
-What’s your strategy to stay up to date on the latest development in the industry?
+<details>
+  <summary>
+    <strong>What’s your strategy to stay up to date on the latest development in the industry?</strong>
+  </summary>
+  <p>
+    I collaborate with previous coworkers and see what they're up to. Lot's of times that's enough. Sometimes I'll read
+    blogs or listen to podcasts. - <a href="/docs/fall-2021/panelists#travis">TW</a>
+  </p>
+</details>
 
 Best mindset needed to hone your craft? What principles do you keep for this?
 
