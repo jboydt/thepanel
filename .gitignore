@@ -21,3 +21,6 @@ yarn-error.log*
 
 # So Boyd does not lose stuff
 /local
+
+# IDE Files
+.idea/
