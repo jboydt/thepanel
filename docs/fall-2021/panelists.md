@@ -29,7 +29,7 @@ Presently working as a lead software engineer at Quartzy, been there for four ye
 
 * https://www.linkedin.com/in/jeremy-thomas-55b27a119/
 
-Started at Butte College, transferred to Chico State, Nearly completed a Math degree. Ended up delaying graduation to pick up some programming classes. Graduated with a Math Degree but went to Amazon as an SDE. Now works at Palo Alto Networks.
+Started at Butte College, transferred to Chico State, completed a Math degree. Ended up delaying graduation to pick up some programming classes. Graduated with a Math Degree but went to Amazon as an SDE. Now works at Palo Alto Networks.
 
 ---
 
@@ -39,7 +39,7 @@ Started at Butte College, transferred to Chico State, Nearly completed a Math de
 
 Started at Butte College, transferred to Chico State. Graduated with Chemistry and Math degrees.
 
-Learned Python at work, became a software engineer on the job. Now runs a team of software engineers for a large bank.
+Learned Javascript at work, became a software engineer on the job. Now runs a team of software engineers for a large bank.
 
 ---
 
