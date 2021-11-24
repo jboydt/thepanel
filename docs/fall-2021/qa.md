@@ -12,7 +12,12 @@ title: Q&A
 
 ### Career building
 
-What do you look for in a mentor?
+<details>
+  <summary>
+    <strong>What do you look for in a mentor?</strong>
+  </summary>
+  <p>Coming soon...</p>
+</details>
 
 After working in the industry for a while are there any other avenues of education (math, business, chemistry, psychology) that might have benefited you in either getting a job or making life in the industry easier? Or does it depend on the job?
 
@@ -62,14 +67,3 @@ What do "front-end", "back-end", and "infrastructure" mean?
 How much does making a salary change your drive compared to college life?
 
 Any specific advice for us older kids (I’m 43) who is just now switching careers to dev?  I’m really passionate about programming and I LOVE learning it.
-
----
-
-Template here for answers (?)
-
-<details>
-  <summary>
-  	<strong>What is the answer to the thing?</strong>
-  </summary>
-  <p>This is part of the answer to the thing.</p>
-</details>
